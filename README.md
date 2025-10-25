@@ -1,14 +1,14 @@
 # Linear Regression Analysis in Python
 
 This project demonstrates how to apply linear regression to explore and model the relationship between two continuous variables.  
-It covers the full workflow — data cleaning, correlation analysis, model fitting, and statistical validation — all implemented in Python.
+It covers the full workflow: data cleaning, correlation analysis, model fitting, and statistical validation — all implemented in Python.
 
 ---
 
 ## Files
 - **Linear_Regression_F** – detailed explanation of methods and results  
-- **Linear_Regression_Notebook.ipynb** – executable notebook with full code and visualizations  
-- **treated_set.dat** – cleaned dataset used for modeling  
+- **Linear_Regression_Notebook.ipynb** – executable notebook with full code and visualisations  
+- **treated_set.dat** – cleaned dataset used for modelling  
 
 ---
 
@@ -17,7 +17,7 @@ It covers the full workflow — data cleaning, correlation analysis, model fitti
 - Missing value treatment (listwise deletion)  
 - Correlation and heatmap analysis  
 - Linear regression via manual OLS and `scipy.stats.linregress`  
-- Visualization of model fit and performance metrics  
+- Visualisation of model fit and performance metrics  
 
 ---
 
