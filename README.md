@@ -7,7 +7,7 @@ It covers the full workflow: data cleaning, correlation analysis, model fitting,
 
 ## Files
 - **Linear_Regression_F** – detailed explanation of methods and results  
-- **Linear_Regression_Notebook.ipynb** – executable notebook with full code and visualisations  
+- **Linear_Regression.ipynb** – executable notebook with full code and visualisations  
 - **treated_set.dat** – cleaned dataset used for modelling  
 
 ---
